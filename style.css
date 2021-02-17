@@ -113,3 +113,13 @@ body {
 .hide {
   display: none;
 }
+
+@media (max-width: 1000px) {
+  .text {
+    width: 100%;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}
